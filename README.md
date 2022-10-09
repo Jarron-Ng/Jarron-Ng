@@ -1,7 +1,10 @@
 [![MasterHead](https://github.com/Jarron-Ng/Jarron-Ng/blob/main/PAuAvwiljBMG_1280_1280.png)](https://github.com/Jarron-Ng/)
 
-✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD). Aspiring to be a 
-🌠<i> software engineer </i> 🌠
+
+<p style="text-align:center"> ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD </p>
+<div align="center">
+  <i> Aspiring to be a 🌠 software engineer 🌠 </i>
+</div>
 
 <br>
 <br>
