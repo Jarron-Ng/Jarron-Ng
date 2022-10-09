@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\jarro\Desktop\BCEiB6G1ibyD_800_800.png)](https://github.com/Jarron-Ng/)
+[![MasterHead](https://github.com/Jarron-Ng/Jarron-Ng/blob/main/BCEiB6G1ibyD_800_800.png)](https://github.com/Jarron-Ng/)
 
 ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD). Aspiring to be a 
 🌠<i> software engineer </i> 🌠
