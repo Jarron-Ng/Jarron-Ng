@@ -1,9 +1,19 @@
 ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD). Aspiring to be a 
 🌠<i> software engineer </i> 🌠
+<br>
+<br>
 
-[![Jarron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarron-Ng&repo=convoychat" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()]()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
