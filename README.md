@@ -13,8 +13,6 @@
 </a>
 
 
-[![Top Langs]()]()
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
