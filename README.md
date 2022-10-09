@@ -1,4 +1,5 @@
-### Hi there 👋
+###✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD). Aspiring to be a 
+🌠<i> software engineer </i> 🌠
 
 [![Jarron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
