@@ -2,6 +2,7 @@
 
 ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD). Aspiring to be a 
 🌠<i> software engineer </i> 🌠
+
 <br>
 <br>
 
@@ -12,8 +13,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact&theme=radical" />
 </a>
 
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3" />
+</a>
+
 
 <!--
 **Jarron-Ng/Jarron-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
