@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Jarron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Jarron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jarron-Ng/Jarron-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
