@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Jarron-Ng/Jarron-Ng/blob/main/PAuAvwiljBMG_1280_1280.png)](https://github.com/Jarron-Ng/)
 
 
-<p style="text-align:center"> ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design (SUTD </p>
+<p style="text-align:center"> ✨ Hi how are ya ʕ •ᴥ•ʔ ✨. I'm a third year student in Computer Science and Design at Singapore University of Technology and Design </p>
 <div align="center">
   <i> Aspiring to be a 🌠 software engineer 🌠 </i>
 </div>
@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact&theme=radical" />
 </a>
 
 <br>
