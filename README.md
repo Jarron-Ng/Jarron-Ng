@@ -13,14 +13,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jarron-Ng&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarron-Ng&layout=compact&theme=radical" hspace="20" vspace="20" />
 </a>
 
 <br>
+<br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3" />
-</a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jarron-Ng&theme=onedark&row=2&column=3" />
+  </a>
+</div>
 
 
 <!--
